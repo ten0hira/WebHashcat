@@ -3,6 +3,6 @@ celery
 requests
 requests-toolbelt
 humanize
-mysqlclient
+mysqlclient==2.1.1
 redis
 tzdata
